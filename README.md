@@ -1,8 +1,8 @@
 # CS 360 Homework 3
 
-Name:  
+Name:  Thomas Madden
 
-Drexel Username:  
+Drexel Username:  tmm455
 
 Put anything else you want us to know here.
 I'm sorry for the late submission. This term has been a struggle 
